@@ -1,5 +1,0 @@
-ipython
-django
-djangorestframework
-black
-
